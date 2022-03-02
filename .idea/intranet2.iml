@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/htdocs">
+      <sourceFolder url="file://$MODULE_DIR$/htdocs/src" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/htdocs/tests" isTestSource="true" packagePrefix="App\Tests\" />
+      <excludeFolder url="file://$MODULE_DIR$/htdocs/vendor" />
+      <excludeFolder url="file://$MODULE_DIR$/htdocs/src/Security" />
+      <excludeFolder url="file://$MODULE_DIR$/htdocs/config" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

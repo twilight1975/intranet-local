@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="192.168.0.37" id="ef319ed6-e6be-4730-8249-66b5524af55f" port="22" customName="debian virtualBox" nameFormat="CUSTOM" username="karsten" useOpenSSHConfig="true">
+        <option name="customName" value="debian virtualBox" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
